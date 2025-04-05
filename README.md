@@ -15,7 +15,7 @@ Computer science student passionate about C++ and Linux.
 - 🎨 Hobbies: trains, cycling, 3D graphics and photography
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kruczys&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kkreczko&show_icons=true&theme=dark)
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/konrad-kreczko/)
